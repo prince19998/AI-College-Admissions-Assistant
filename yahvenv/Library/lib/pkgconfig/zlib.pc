@@ -1,0 +1,13 @@
+prefix=D:/Yahweh/yahvenv/Library
+exec_prefix=D:/Yahweh/yahvenv/Library
+libdir=D:/Yahweh/yahvenv/Library/lib
+sharedlibdir=D:/Yahweh/yahvenv/Library/lib
+includedir=D:/Yahweh/yahvenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

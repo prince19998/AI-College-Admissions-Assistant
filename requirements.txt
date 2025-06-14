@@ -1,0 +1,7 @@
+python-dotenv
+requests
+groq
+pyfiglet
+termcolor
+beautifulsoup4
+

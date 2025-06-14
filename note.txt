@@ -1,0 +1,6 @@
+Academic interests (comma-separated, e.g. 'Computer Science, AI'): Computer Science, Artificial Intelligence
+Personal strengths (comma-separated, e.g. 'math, research'): programming, math, research experience
+Preferences (location, program type, etc.): Urban campus with strong AI research
+Standardized test scores (if any): SAT 1480
+Current GPA (if known): 3.8
+Extracurricular activities (comma-separated): robotics team president, AI research internship

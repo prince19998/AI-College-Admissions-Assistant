@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Computer Science",
+        "university": "Tech Institute",
+        "description": "Comprehensive program covering algorithms, systems, and AI with strong industry connections.",
+        "location": "Urban",
+        "keywords": ["programming", "algorithms", "software engineering", "AI"],
+        "requirements": "Strong math background, programming experience preferred",
+        "min_gpa": 3.2
+    },
+    {
+        "name": "Data Science",
+        "university": "State University",
+        "description": "Interdisciplinary program combining computer science, statistics, and domain applications.",
+        "location": "Suburban",
+        "keywords": ["machine learning", "statistics", "data analysis", "big data"],
+        "requirements": "Quantitative skills, some programming knowledge",
+        "min_gpa": 3.0
+    },
+    {
+        "name": "Artificial Intelligence",
+        "university": "Research University",
+        "description": "Advanced study of machine learning, neural networks, and intelligent systems.",
+        "location": "Urban",
+        "keywords": ["AI", "machine learning", "deep learning", "neural networks"],
+        "requirements": "Excellent math skills, programming proficiency required",
+        "min_gpa": 3.5
+    },
+    {
+        "name": "Cognitive Science",
+        "university": "Liberal Arts College",
+        "description": "Study of the mind and intelligence from computational, psychological, and philosophical perspectives.",
+        "location": "Rural",
+        "keywords": ["psychology", "neuroscience", "philosophy", "AI"],
+        "requirements": "Interest in interdisciplinary studies, no specific prerequisites",
+        "min_gpa": 3.0
+    }
+]
